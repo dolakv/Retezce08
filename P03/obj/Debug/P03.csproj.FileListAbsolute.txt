@@ -1,0 +1,10 @@
+C:\Users\dolakv.05\source\repos\Řetězce\P03\bin\Debug\P03.exe.config
+C:\Users\dolakv.05\source\repos\Řetězce\P03\bin\Debug\P03.exe
+C:\Users\dolakv.05\source\repos\Řetězce\P03\bin\Debug\P03.pdb
+C:\Users\dolakv.05\source\repos\Řetězce\P03\obj\Debug\P03.csprojAssemblyReference.cache
+C:\Users\dolakv.05\source\repos\Řetězce\P03\obj\Debug\P03.Form1.resources
+C:\Users\dolakv.05\source\repos\Řetězce\P03\obj\Debug\P03.Properties.Resources.resources
+C:\Users\dolakv.05\source\repos\Řetězce\P03\obj\Debug\P03.csproj.GenerateResource.cache
+C:\Users\dolakv.05\source\repos\Řetězce\P03\obj\Debug\P03.csproj.CoreCompileInputs.cache
+C:\Users\dolakv.05\source\repos\Řetězce\P03\obj\Debug\P03.exe
+C:\Users\dolakv.05\source\repos\Řetězce\P03\obj\Debug\P03.pdb
